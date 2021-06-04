@@ -17,13 +17,8 @@ const fs  = require('fs')
     },
         {
           type: 'input',
-          name: 'tableofContents',
-          message: 'Table of Contents : '
-    },
-        {
-          type: 'input',
           name: 'installation',
-          message: 'Installation : '
+          message: 'Installation process : '
     },
         {
           type: 'input',
