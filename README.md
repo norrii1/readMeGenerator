@@ -1,9 +1,9 @@
 
-  # kd
+  # Read Me Generator
   
-![badge](https://img.shields.io/badge/license-kd-brightgreen)<br />
+![badge](https://img.shields.io/badge/license-none-brightgreen)<br />
 ## Description
-🔍 kd
+🔍 A command-line application that dynamically generates a professional README.md from a user's input using the [Inquirer package](https://www.npmjs.com/package/inquirer). 
 ## Table of Contents
 - [Description](#description)
 - [Installation](#installation)
@@ -13,18 +13,18 @@
 - [Tests](#tests)
 - [Questions](#questions)
 ## Installation
-💾 kd
+💾 node index.js
 ## Usage
-💻 kd
+💻 A template for all project read me pages
 ## License
-![badge](https://img.shields.io/badge/license-kd-brightgreen)
+![badge](https://img.shields.io/badge/license-none-brightgreen)
 <br />
-This application is covered by the kd license. 
+This application is covered by none license. 
 ## Contributing
-👪 kd
+👪 none
 ## Tests
-✏️ kd
+✏️ none
 ## Questions
-✋ dk
+✋ none
 
     
